@@ -243,6 +243,16 @@ li {
     background-repeat: revert;
   }
 }
+.main__wrap{
+        @media (max-width:600px) {            
+            position: relative;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #ffffff4f;
+        }
+    }
 .main__content {
   padding-top: 103px;
   padding-bottom: 202px;
