@@ -159,7 +159,7 @@ li {
 }
 .nav__logo {
   width: 40%;
-  z-index: 2;
+  z-index: 5;
 }
 .nav__logo img {
   width: 80%;
