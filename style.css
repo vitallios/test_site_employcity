@@ -208,6 +208,7 @@ li {
   flex-wrap: wrap;
   font-size: 1.7em;
   transition: all 0.4s;
+  z-index: 2;
 }
 .nav__menuOpen:hover {
   color: var(--color-item);
@@ -215,7 +216,6 @@ li {
 @media (min-width: 600px) {
   .nav__menuOpen {
     display: none;
-    z-index: 2;
   }
 }
 .nav__itemLinck {
