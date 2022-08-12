@@ -243,8 +243,9 @@ li {
     background-repeat: revert;
   }
 }
-.main__wrap{
-        @media (max-width:600px) {            
+
+ @media (max-width:600px) {   
+          .main__wrap{
             position: relative;
             top: 0;
             bottom: 0;
