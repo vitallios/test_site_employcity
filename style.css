@@ -284,7 +284,6 @@ li {
     text-align: center;
     width: 80%;
     font-weight: 900;
-    filter: drop-shadow(2px 4px 6px #000);
   }
 }
 .main__list {
