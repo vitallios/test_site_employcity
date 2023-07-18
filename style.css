@@ -651,6 +651,9 @@ li {
   width: 24px;
   position: relative;
 }
+.order__wrapInput input{
+  outline: none;
+}
 .order__file {
   opacity: 0;
   height: 100%;
